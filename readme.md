@@ -9,3 +9,9 @@ An exercise, following this video: https://www.youtube.com/watch?v=0c8b7YfsBKs
 
 ## Limitations
 - Only integers from 0 to 9 are supported.
+
+```bash
+$ cargo run
+>>> 5 + 9 * 5
+50
+```
